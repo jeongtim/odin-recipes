@@ -1,0 +1,20 @@
+* {
+    line-height: 1.5;
+}
+
+body {
+    font-family: "Courier New"; monospace; 
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+img {
+    border-style: ridge;
+}
+
+.main {
+   font-size: 20px;
+}
